@@ -18,7 +18,7 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "6220038329:AAHyutBwfWIct0yhJ2t5HPoSa0KDDzlfImk"
+      "value": "6364738901:AAFjEpUOSXCL2Pjln6HXCIjHWkmRDPbNFsY"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
@@ -26,11 +26,11 @@
     },
     "DB_CHANNEL_ID": {
       "description": "give me the telegram channel ID here (better this should be private channel)",
-      "value": "-1001813793977"
+      "value": "-1001973804769"
     },
     "UPDATE_CHANNEL": {
       "description": "Your bot updates channel like Ns_bot_updates (username without @ for forcesub). (Leave empty it you don't want to add)",
-      "value": "",
+      "value": "Manga_Mix",
       "required": false
     },
     "OWNER_ID": {
